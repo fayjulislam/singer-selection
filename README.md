@@ -1,6 +1,6 @@
 # Project of Singer Selection for a Concert
 
-Project Live Link:  [Singer Selection](https://github.com/facebook/create-react-app).
+Project Live Link:  [Singer Selection](https://singer-selection.netlify.app/).
 
 ## Project Details
 
