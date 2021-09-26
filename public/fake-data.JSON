@@ -1,0 +1,229 @@
+
+
+[
+    {
+        "key": 1,
+        "name": "JOSH LOVELL",
+        "age": 26,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Tenor",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578677220208-LPSGOZG6UTIBZ4B3KKOT/JoshLovell.jpg?format=300w",
+        "salary": 3500
+    },
+    {
+        "key": 2,
+        "name": "BRANDON SCOTT",
+        "age": 24,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Tenor",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578677302476-N3VA8QX2KQFMPTRSURFM/BrandonRussell.jpg?format=300w",
+        "salary": 3550
+    },
+    {
+        "key": 3,
+        "name": "DAEWON SEO",
+        "age": 90,
+        "country": "USA",
+        "university": "CCalifornia State University-Northridge",
+        "voiceType": "Baritone",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578677353974-QM0LFJR0HIO2YX5I2YEJ/DaewonSeo.jpg?format=300w",
+        "salary": 2300
+    },
+    {
+        "key": 4,
+        "name": "TAYTE MITCHELL",
+        "age": 36,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Tenor",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578677416079-92152UQJX3VOOFIVXOBD/TayteMitchell.jpg?format=300w",
+        "salary": 1300
+    },
+    {
+        "key": 5,
+        "name": "ANDREW LIPIAN",
+        "age": 48,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Countertenor",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578842950649-RX6YNUVD5FZGYKAQF1SS/Andrew_Lipian.jpg?format=300w",
+        "salary": 2500
+    },
+    {
+        "key": 6,
+        "name": "SEUNGYUN KIM",
+        "age": 58,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Bass-Baritone",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578843089230-2CTYXO3VK32E0Z3TKEO4/Seungyun_Kim.jpg?format=300w",
+        "salary": 3700
+    },
+    {
+        "key": 7,
+        "name": "DANIEL FRIDLEY",
+        "age": 32,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Bass",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578674730372-7NRH2HWS9Q6MK5NXPGXP/Daniel%2BFridley.jpg?format=300w",
+        "salary": 6350
+    },
+    {
+        "key": 8,
+        "name": "GEORGE MILOSH",
+        "age": 40,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Tenor",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578843570722-5CII8H8KNQ8EL0ZUIXTA/George_Milosh.jpg?format=300w",
+        "salary": 2600
+    },
+    {
+        "key": 9,
+        "name": "MATTHEW SOIBELMAN",
+        "age": 39,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Bass",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578676572111-OFH19H7OUKP5ABHFZ82Z/Soibelman.jpg?format=300w",
+        "salary": 1200
+    },
+    {
+        "key": 10,
+        "name": "CAMRON GRAY",
+        "age": 26,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Tenor",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578676988118-HZBJT7HPMKK55AZH37RZ/camronGray.jpg?format=300w",
+        "salary": 1600
+    },
+    {
+        "key": 21,
+        "name": "DAEWON SEO",
+        "age": 90,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Baritone",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578677353974-QM0LFJR0HIO2YX5I2YEJ/DaewonSeo.jpg?format=300w",
+        "salary": 2300
+    },
+    {
+        "key": 11,
+        "name": "SAMUEL KIDD",
+        "age": 29,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Baritone",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1594155988690-TN3AKA15IW18GGOOS4WS/KiddSamuel_72.jpg?format=300w",
+        "salary": 6600
+    },
+    {
+        "key": 12,
+        "name": "TAYTE MITCHELL",
+        "age": 33,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Tenor",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1594156065066-G2PRCAKU45M9ZPB6LEYW/MitchellTayte_72.jpg?format=300w",
+        "salary": 2100
+    },
+    {
+        "key": 13,
+        "name": "LOUIS ONG",
+        "age": 23,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Baritone",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1594156125658-D5IEOPXGURAA7NTYII3V/OngLouis_72.jpg?format=300w",
+        "salary": 3500
+    },
+    {
+        "key": 14,
+        "name": "XUYUE QING",
+        "age": 41,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Tenor",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1594156308696-V636RYBVKMNKVL6A0P5T/QingXuyue_72.jpg?format=300w",
+        "salary": 4000
+    },
+    {
+        "key": 15,
+        "name": "CARL ROSENTHAL",
+        "age": 33,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Tenor",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1594156184652-OKTJ2QAR8Y9YTRPLAPC1/George_Milosh.jpg?format=300w",
+        "salary": 1800
+    },
+    {
+        "key": 16,
+        "name": "JUSTIN STOLZ",
+        "age": 33,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Tenor",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578677692362-QBHAH0TT87TBVSROQ4UD/1459128_orig.jpg?format=300w",
+        "salary": 4100
+    },
+    {
+        "key": 17,
+        "name": "DERRELL ACON",
+        "age": 31,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Bass",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578677885903-2UKW48WEIUVDTIE45VS3/9313006.jpg?format=300w",
+        "salary": 1800
+    },
+    {
+        "key": 18,
+        "name": "ANDREW MANEA",
+        "age": 85,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Baritone",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578678000992-GL18BKXXMISJP6FJH1TY/DaewonSeo.jpg?format=300w",
+        "salary": 4400
+    },
+    {
+        "key": 19,
+        "name": "PEDRO ANDRÉ",
+        "age": 19,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Tenor",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578678269982-NA35U4GGU2B1WFLXM8IJ/5772255_orig.jpg?format=300w",
+        "salary": 3000
+    },
+    {
+        "key": 20,
+        "name": "TIMOTHY RENNER",
+        "age": 24,
+        "country": "USA",
+        "university": "California State University-Northridge",
+        "voiceType": "Bass",
+        "img": "https://images.squarespace-cdn.com/content/v1/5dcc59b2a2e28e37d954f439/1578678592625-O0QUQBF9LYB9323WKUAU/5874381_orig.jpg?format=300w",
+        "salary": 3300
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
