@@ -25,9 +25,9 @@ const cart = (props) => {
                     {/* Display selected singer name in the cart area  */}
 
                     {
-                        cart.map(name => <small>
+                        cart.map(name => <small >
 
-                            <div className="d-flex justify-content-around border border-1 border-muted pt-2">
+                            <div className="d-flex justify-content-around border border-1 border-muted pt-2 " key={name.key + Math.random() + ""}>
                                 <p>
                                     {name.name}
                                     <img className="ms-3" style={{ height: "30px", width: "30px", borderRadius: "50px" }} src={name.img} alt="" />
