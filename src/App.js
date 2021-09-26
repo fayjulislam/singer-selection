@@ -6,8 +6,8 @@ import Singers from './component/Singers/Singers';
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Banner />
+      <Header></Header>
+      <Banner></Banner>
       <Singers></Singers>
     </div>
   );

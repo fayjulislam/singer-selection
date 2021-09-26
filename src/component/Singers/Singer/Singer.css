@@ -3,3 +3,8 @@
     width: 100px;
     border-radius: 100px;
 }
+
+.social-icon span{
+    font-size: 20px;
+    padding: 5px;
+}

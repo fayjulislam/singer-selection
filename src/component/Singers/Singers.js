@@ -6,14 +6,16 @@ const Singers = () => {
     const [singers, setSingers] = useState([]);
     const [cart, setCart] = useState([]);
 
+    // Load Data from json file 
     useEffect(() => {
         fetch('./fake-data.JSON')
             .then(res => res.json())
             .then(data => setSingers(data))
     }, [])
 
-    const handleSelectBtn = (singer) =>{
-        const newCart =[...cart, singer];
+    // Handle Select Button 
+    const handleSelectBtn = (singer) => {
+        const newCart = [...cart, singer];
         setCart(newCart);
     }
 
@@ -22,20 +24,23 @@ const Singers = () => {
             <div className="row">
                 <div className="col-md-9">
                     <div className="row">
+
+                        {/* Display Data in UI  */}
                         {
                             singers.map(singer => <Singer
 
                                 key={singer.key}
                                 singer={singer}
-                                handleSelectBtn = {handleSelectBtn}
+                                handleSelectBtn={handleSelectBtn}
 
                             ></Singer>)
                         }
                     </div>
                 </div>
 
+                {/* Cart Section  */}
                 <div className="col-md-3">
-                    <Cart cart = {cart}></Cart>
+                    <Cart cart={cart}></Cart>
                 </div>
             </div>
         </div>
