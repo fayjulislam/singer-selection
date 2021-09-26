@@ -2,7 +2,7 @@ import React from 'react';
 
 const cart = (props) => {
 
-    const { cart} = props;
+    const { cart } = props;
     let total = 0;
 
     for (const singer of cart) {
@@ -18,15 +18,25 @@ const cart = (props) => {
                     <h4 className="text-center">Selected Singers</h4>
                 </div>
                 <div className="p-4 ">
-                    <h5>Singer Added: {props.cart.length}</h5>
-                    <h5 className="my-4">Total Salary: {total}</h5>
+                    <h5>Singer Added: <span className="text-warning fw-bold">{props.cart.length}</span></h5>
+                    <h5 className="my-4">Total Cost: <span className="text-warning fw-bold">{total}</span></h5>
                     <h5 className="mb-3">Selected Singers:</h5>
+
+                    {/* Display selected singer name in the cart area  */}
+
                     {
                         cart.map(name => <small>
 
-                            <p>{name.name} <img className="m-3" style={{ height: "30px" }} className="cart-img" src={name.img} alt="" /></p>
+                            <div className="d-flex justify-content-around border border-1 border-muted pt-2">
+                                <p>
+                                    {name.name}
+                                    <img className="ms-3" style={{ height: "30px", width: "30px", borderRadius: "50px" }} src={name.img} alt="" />
+                                </p>
+                            </div>
+
                         </small>)
                     }
+
                 </div>
                 <div className="card-footer">
                     <div className="text-center">

@@ -14,7 +14,6 @@ const Singer = (props) => {
     const spotyIcon = <FontAwesomeIcon icon={faSpotify} />
     const selectIcon = <FontAwesomeIcon icon={faCheckCircle} />
 
-
     return (
 
         // Single Singer Info Section 

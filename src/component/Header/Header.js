@@ -1,7 +1,12 @@
 import React from 'react';
-import './Header.css'
+import './Header.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faMix} from '@fortawesome/free-brands-svg-icons';
 
 const Header = () => {
+
+    const mixIcon = <FontAwesomeIcon icon={faMix} />
+
     return (
         // navbar section 
 
@@ -9,7 +14,7 @@ const Header = () => {
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container">
                     <a className="navbar-brand" href="/home">
-                        <h3><span className="logo-text">Singer Hub</span></h3>
+                        <h3>{mixIcon} <span className="logo-text">Singer Hub</span></h3>
                     </a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
